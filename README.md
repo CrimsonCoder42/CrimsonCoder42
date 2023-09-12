@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Devin
-- 👀 I’m interested in React = Front end, Python = Data, Golang = Backend. Use the best tool for the job. 
-- 🌱 I’m currently learning focusing on AWS, GCP, Azure cloud. 
-- 💞️ I’m looking to collaborate on a Cognition amplifier.  
-- 📫 How to reach me just use your Sub-Etha Sens-O-Matic
+I'm a customer-centric software professional with hands-on experience in accounts management, business development, and customer services. I'm well-prepared to excel in a software development role that requires critical analysis, lead generation reporting, and effective client issue resolution. My expertise extends to designing software, documentation, developing engineering approaches, and supporting machine learning infrastructure. I'm also familiar with advanced technical development techniques, tools, and processes. As a quality engineer, I'm equipped with the expertise needed to drive consistency in all phases of software development, ensuring product and customer success. Let's connect!
